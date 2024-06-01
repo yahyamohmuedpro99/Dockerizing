@@ -1,2 +1,2 @@
 # Dockerizing
-hold multiple things i use frrquently so instead of write it from start or search again i will be already have it prepared for me 
+hold multiple things i use frequently so instead of writing it from the start or searching again i will already have it prepared for me 
